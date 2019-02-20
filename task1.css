@@ -1,0 +1,36 @@
+
+body {
+background-color:cyan;
+background-image:url("Pic2.jpg");
+background-repeat:no-repeat;
+background-position:right top;
+}
+p {
+color:red;
+border-style:solid;
+border-width:10px;
+border-color:black;
+padding:50px;
+text-transform:capitalize;
+}
+#para1 {
+color:blue;
+}
+p.color1 {
+color:green;
+}
+h1.h {
+color:green;
+margin:50px 25px;
+width:50%;
+text-transform:uppercase;
+}
+p.h1 {
+color:red;
+}
+div {
+width:200px;
+border-style:solid;
+border-width:25px;
+border-color:navy;
+}
